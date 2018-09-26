@@ -1,0 +1,6 @@
+com\senior\spring\springApiRestPostgreSQL\SpringApiRestPostgreSqlApplication.class
+com\senior\spring\springApiRestPostgreSQL\util\Validator.class
+com\senior\spring\springApiRestPostgreSQL\bto\Cliente.class
+com\senior\spring\springApiRestPostgreSQL\repository\ClienteRepository.class
+com\senior\spring\springApiRestPostgreSQL\rest\ClienteController.class
+com\senior\spring\springApiRestPostgreSQL\service\ClienteService.class
